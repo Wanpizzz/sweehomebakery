@@ -1,0 +1,27 @@
+.receipt-detail {
+    border: black 1px solid;
+    width: 27%;
+    margin: auto;
+    padding-bottom: 20px;
+    justify-content: center;
+}
+
+.receipt-detail h2 {
+    text-align: center;
+    font-size: 30px;
+    font-weight: 600;
+    color: #000;
+    margin-bottom: 20px;
+}
+
+.receipt-detail .detail {
+    width: 70%;
+    margin: auto;
+}
+
+.btn {
+    width: fit-content;
+    margin: auto;
+    margin-top: 20px;
+    justify-content: center;
+}
